@@ -1,11 +1,12 @@
 ### Hello, I'm Luza Pedreira! 👋
 
 About me...
-- Estudante no BootCamp da Laboratoria;
-- I’m currently learning about full stack web development;
+- Graduada no BootCamp de Desenvolvimento Web Front-End, da Laboratoria;
 - CSS;
 - JavaScript;
 - HTML;
+- Node.JS;
+- Firebase;
 - Git/GitHub;
 
 
@@ -14,7 +15,7 @@ About me...
 
 Here are some ideas to get you started:
 
-- 🔭 Estudante no BootCamp da Laboratoria;
+- 🔭 Graduada no BootCamp de Desenvolvimento Web Front-End, da Laboratoria;
 - 🌱 I’m currently learning about full stack web development;
 - 👯 CSS
 - 🤔 JavaScript
