@@ -1,6 +1,7 @@
 ### Hello, I'm Luza Pedreira! 👋
 
 About me...
+- Estudante em Pós Graduação de Análise de Dados;
 - Graduada no BootCamp de Desenvolvimento Web Front-End, da Laboratoria;
 - CSS;
 - JavaScript;
