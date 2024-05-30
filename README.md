@@ -4,6 +4,8 @@ About me...
 - Graduada no BootCamp de Desenvolvimento Web Front-End, da Laboratoria;
 - CSS;
 - JavaScript;
+- Python;
+- SQL;
 - HTML;
 - Node.JS;
 - Firebase;
