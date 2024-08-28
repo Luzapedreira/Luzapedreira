@@ -10,7 +10,7 @@ About me...
 - HTML;
 - Node.JS;
 - Firebase;
-- Git/GitHub;
+- Salesforce;
 
 
 <!--
